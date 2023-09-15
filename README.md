@@ -8,6 +8,11 @@
     <a href="#-executing">Executing</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<div align="center">
+  <img alt="calendar" src="./.github/calendar.gif" height="80" />
+  <img alt="home" src="./.github/login.gif" height="80" />
+</div>
+
 ## :rocket: Tecnologias
 
 :point_down: This project was developed with: :point_down:
