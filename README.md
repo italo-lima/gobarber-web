@@ -9,8 +9,7 @@
 </p>
 
 <div align="center">
-  <img alt="calendar" src="./.github/calendar.gif" height="80" />
-  <img alt="home" src="./.github/login.gif" height="80" />
+  <img alt="login" src="./.github/login.gif" height="250" />
 </div>
 
 ## :rocket: Tecnologias
